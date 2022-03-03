@@ -1,0 +1,29 @@
+#!/bin/bash
+su betty
+#!/bin/bash
+chmod --reference=olleh hello
+#!/bin/bash
+chmod -R +111 */
+#!/bin/bash
+mkdir -m 751 my_dir
+#!/bin/bash
+chgrp school hello
+#!/bin/bash
+whoami
+#!/bin/bash
+groups
+#!/bin/bash
+chown betty hello
+#!/bin/bash
+touch bello
+#!/bin/bash
+chmod u+x hello
+#!/bin/bash
+chmod ug+x,o+r hello
+#!/bin/bash
+chmod ugo+x hello
+#!/bin/bash
+chmod 007 hello
+#!/bin/bash
+chmod 753 hello
+Task 0
