@@ -1,2 +1,2 @@
-[1;5s[1;5q#1/bin/bash
+#!/bin/bash
 echo Hello, World
